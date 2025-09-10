@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mantram’s Website",
+    "section": "",
+    "text": "This is a Quarto website.\nHi! My name is Mantram Sharma. I am a graduate student at the University of British Columbia Master of Data Science Program. I plan on pursuing a career in data science, primarily machine learning and utilize skills learned through my Masters to build AI Models for the benefit of users."
+  }
+]
